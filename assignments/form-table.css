@@ -1,0 +1,45 @@
+table{
+    background-color: black;
+    color: yellow;
+}
+td:nth-child(odd){
+    color:yellow;
+    text-align: right;
+}
+
+header{
+    background-color: orange;
+    height: 25px;
+    align-items: left;
+    color: yellow;
+    width: 440px;
+    padding-top: 5px;
+    padding-left: 10px;
+    
+}
+label{
+    text-align: right;
+}
+td{
+    height: 35px;
+    width: 220px;
+}
+.submit{
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 250px;
+    border: 0;
+    margin-top: 10px;
+}
+.cancel{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: 0;
+}
+footer{
+    background-color: orange;
+    width: 450px;
+    height: 45px;
+}

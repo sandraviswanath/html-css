@@ -1,0 +1,16 @@
+
+
+
+
+table,th,td{
+    border: 1px solid ;
+    border-collapse: collapse;
+    width: 200px;
+}
+th{
+    color: blue;
+    background-color:silver;
+}
+tr:nth-child(even){
+    background-color: rgba(135, 167, 56, 0.89);
+}

@@ -4,22 +4,21 @@
 .col-1{
     background-color:red;
     margin-left: 50px;
-    padding: 10px;
+    padding-left: 30px;
 }
 .sub-div{
-    margin: 50px;
+    margin-left: 30px;
+    margin-right: 50px;
 
     
 }
 .col-2{
     background-color: green;
     margin-bottom: 20px;
-    padding: 10px;
 
 
 }
 .col-3{
     background-color: green;
-    padding: 10px;
 
 }
