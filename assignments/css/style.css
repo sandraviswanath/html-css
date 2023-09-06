@@ -1,0 +1,19 @@
+body{
+    background-image: url("img1.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.main-div{
+    margin: 10px;
+}
+.col-1{
+    color: blue;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    border-style:dashed double dotted solid;
+    border-color: red green cyan orange;
+    width: 700px;
+}

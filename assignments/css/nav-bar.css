@@ -1,0 +1,24 @@
+
+.main{
+    background-color: aqua;  
+    padding: 50px;
+    padding-top:0;
+}
+.col-1{
+    float: left;
+}
+.col-2{
+    float: right;
+}
+
+li{
+    display: inline-block;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+   
+}
+
